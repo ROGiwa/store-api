@@ -7,7 +7,7 @@ A simple store api.
 This project is a  simple store api with different features like filtering, rating sorting and pagination.
 
 ## Pre-configuration
--Run the command
+- Run the command
 
       npm install
 
