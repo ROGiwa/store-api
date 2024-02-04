@@ -9,7 +9,7 @@ This project is a  simple store api with different features like filtering, rati
 ## Pre-configuration
 -Run the command
 
-      ```npm install```
+      ``npm install``
 
 ## Configuration
 - Clone the repository
