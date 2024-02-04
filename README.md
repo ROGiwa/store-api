@@ -7,11 +7,8 @@ A simple store api.
 This project is a  simple store api with different features like filtering, rating sorting and pagination.
 
 ## Pre-configuration
-- Install express
-- Install mongoose
-- Install nodemon
-- Install dotenv
-- Install express-async-errors
+-Run the command
+      ```npm install```
 
 ## Configuration
 - Clone the repository
